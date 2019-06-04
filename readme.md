@@ -7,18 +7,21 @@ Our project is to uncover petterns and trends between Fastfood Restaurants and C
 
 Research Questions to answer:
 
-questions:
-1. most popular ff by state
-2. correlation between profession and FFR
+Questions:
+1. most popular FFR by state
+2. correlation between white collar jobs and FFR
 3. correlation between unemployment rate and FFR
+4. correlation between income and FFR
 
 Datasets to be used:
-
 US census demographic data
 Fast Food Restaurant in US
-TBD..
 
 
 Rough breakdown of Tasks:
-
-TBD
+1. get datasets
+2. clean the data
+3. create dataset with columns for analysis
+4. plot datasets
+5. write analysis
+6. presentation
