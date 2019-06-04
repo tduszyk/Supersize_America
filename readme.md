@@ -14,10 +14,14 @@ Questions:
 4. correlation between income and FFR
 
 Datasets to be used:
+
 Datafiniti_Fast_Food_Restaurants.csv
+
 Columns: name, province
 
+
 acs2017_census_tract_data.csv
+
 Columns: State, Income, Professional, Unemployment
 
 Rough breakdown of Tasks:
