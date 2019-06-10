@@ -3,7 +3,7 @@ Project Title: Supersize America
 Team Members: Tom Duszyk, Lena Kim, Harry Heublum, Jack Phinney
 
 Project Description/ Ouline:
-Our project is to uncover petterns and trends between Fastfood Restaurants and Census data. We’ll examine relationship and correlation between most popular fast food restaurants and demographic data such as professions, poverty rate, unemployment rate.
+Our project is to uncover patterns and trends between Fastfood Restaurants and Census data. We’ll examine relationship and correlation between most popular fast food restaurants and demographic data such as professions, poverty rate, unemployment rate.
 
 Research Questions to answer:
 
