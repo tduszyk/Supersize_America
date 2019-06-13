@@ -1,0 +1,1631 @@
+state;name;name
+AK;Subway;4
+AK;Taco Bell;3
+AK;Carl's Jr;2
+AK;Ak Buffet;1
+AK;Arby's;1
+AK;Dairy Queen;1
+AK;Kumagoro Fine Japanese Restaurant and Sushi Bar;1
+AK;McDonald's;1
+AK;Pizza Hut;1
+AK;Quiznos;1
+AL;Taco Bell;3
+AL;Krystal;2
+AL;Chick-fil-A;1
+AR;McDonald's;18
+AR;Taco Bell;16
+AR;Wendy's;14
+AR;Subway;10
+AR;Arby's;8
+AR;Chick-fil-A;5
+AR;Domino's Pizza;4
+AR;Hardee's;4
+AR;SONIC Drive In;4
+AR;Burger King;3
+AR;KFC;2
+AR;Waffle House;2
+AR;Back Yard Burgers;1
+AR;CASA Mexicana;1
+AR;Captain D's;1
+AR;Dairy Queen;1
+AR;Long John Silver's;1
+AR;Pizza Pro;1
+AR;Rally's;1
+AR;Simple Simon's Pizza;1
+AR;Sonic;1
+AR;Steak 'n Shake;1
+AR;Steak Escape;1
+AR;Taco Mama;1
+AZ;McDonald's;58
+AZ;Taco Bell;53
+AZ;Jack in the Box;26
+AZ;Burger King;20
+AZ;Arby's;19
+AZ;Domino's Pizza;18
+AZ;Subway;16
+AZ;Wendy's;16
+AZ;Del Taco;12
+AZ;Pizza Hut;11
+AZ;Carl's Jr.;8
+AZ;In-N-Out Burger;8
+AZ;Dairy Queen;6
+AZ;Jimmy John's;5
+AZ;Whataburger;5
+AZ;KFC;4
+AZ;Panda Express;3
+AZ;SONIC Drive In;3
+AZ;Wienerschnitzel;3
+AZ;Boston Market;2
+AZ;Chick-fil-A;2
+AZ;Chipotle Mexican Grill;2
+AZ;Church's Chicken;2
+AZ;Eegee's;2
+AZ;Raising Cane's Chicken Fingers;2
+AZ;SUBWAY;2
+AZ;SUBWAY¬Æ;2
+AZ;Sonic Drive-In;2
+AZ;Arbys;1
+AZ;Barro's Pizza;1
+AZ;Baskin-Robbins;1
+AZ;Cousin's Subs;1
+AZ;Culver's;1
+AZ;Einstein Bros Bagels;1
+AZ;El Pollo Loco;1
+AZ;Joe's Crab Shack;1
+AZ;Little Caesars Pizza;1
+AZ;Long John Silver's;1
+AZ;McDonalds;1
+AZ;Pei Wei;1
+AZ;Popeyes Louisiana Kitchen;1
+AZ;Pretzel Time;1
+AZ;Taco Del Mar;1
+AZ;Tanuki Sushi Bar and Garden;1
+AZ;Walmart Supercenter;1
+AZ;Wingstop;1
+CA;McDonald's;155
+CA;Jack in the Box;129
+CA;Burger King;128
+CA;Taco Bell;123
+CA;Carl's Jr.;79
+CA;Subway;57
+CA;Del Taco;41
+CA;In-N-Out Burger;40
+CA;Pizza Hut;40
+CA;Wendy's;33
+CA;Wienerschnitzel;23
+CA;Baskin-Robbins;21
+CA;Panda Express;20
+CA;El Pollo Loco;19
+CA;Arby's;18
+CA;KFC;17
+CA;Carl's Jr;13
+CA;Round Table Pizza;12
+CA;SUBWAY;11
+CA;Dairy Queen;9
+CA;Chick-fil-A;8
+CA;Domino's Pizza;8
+CA;Farmer Boys;8
+CA;Panera Bread;8
+CA;Quiznos;8
+CA;Chipotle Mexican Grill;7
+CA;Boston Market;6
+CA;SONIC Drive In;6
+CA;7-Eleven;5
+CA;Hot Dog on a Stick;5
+CA;Wingstop;5
+CA;Baker's Drive-thru;4
+CA;Chick-Fil-A;4
+CA;Baja Fresh Mexican Grill;3
+CA;Filippi's Pizza Grotto;3
+CA;Jamba Juice;3
+CA;KFC - Kentucky Fried Chicken;3
+CA;Little Caesars Pizza;3
+CA;McDonalds;3
+CA;SUBWAY¬Æ;3
+CA;Baker's Drive Thru;2
+CA;Carl's Jr / Green Burrito;2
+CA;Fosters Freeze;2
+CA;Hometown Buffet;2
+CA;Long John Silver's;2
+CA;Original Tommy's Hamburgers;2
+CA;Pick Up Stix;2
+CA;Pizza Guys;2
+CA;Popeyes Louisiana Kitchen;2
+CA;Port of Subs;2
+CA;SONIC Drive-In;2
+CA;The Flame Broiler;2
+CA;Togo's;2
+CA;Yoshinoya;2
+CA;Zankou Chicken;2
+CA;A's Ace Burgers;1
+CA;Ameci Pizza & Pasta;1
+CA;Ani's Chicken;1
+CA;Arby's - Closed;1
+CA;Batter Up;1
+CA;Boardwalk Grill;1
+CA;Boys Burgers;1
+CA;Burger Basket;1
+CA;California Chicken Cafe;1
+CA;Capri Italian Restaurant;1
+CA;Carl's Jr. / Green Burrito;1
+CA;Carl's Jr. / The Green Burrito;1
+CA;Charley's Grilled Subs;1
+CA;Charo Chicken;1
+CA;Chicago Pizza With A Twist;1
+CA;Chronic Tacos;1
+CA;Church's Chicken;1
+CA;Cobani Gyro Kebab;1
+CA;Cook St. Helena;1
+CA;Copper Oven Artisan Pizza;1
+CA;Dairy Heaven;1
+CA;De Afghanan Kabob House;1
+CA;Dominick's Italian Restaurant;1
+CA;Einstein Bros Bagels;1
+CA;El Ranchito Taco Shop;1
+CA;Extreme Pita;1
+CA;Famous Dave's;1
+CA;Fashion Cafe;1
+CA;Fast Eddie's MOAB;1
+CA;Fatburger;1
+CA;Firehouse Subs;1
+CA;Flame Broiler;1
+CA;Foster's Freeze;1
+CA;Fuddruckers;1
+CA;GD Bro Burger;1
+CA;Golden Dragon;1
+CA;Great American Hamburger Pie Co;1
+CA;Great Wall Restaurant;1
+CA;High Tech Burrito;1
+CA;Hon Lin Restaurant;1
+CA;Islands Restaurant;1
+CA;Jack in the Box -;1
+CA;Jacks N Joe;1
+CA;Jimmy John's;1
+CA;Johnny Rockets;1
+CA;Jollibee;1
+CA;King Wah;1
+CA;Legends Burgers;1
+CA;Lilly's Restaurant;1
+CA;Little Caesar's Pizza;1
+CA;Little Caesars;1
+CA;Los Cotijas Taco Shop;1
+CA;Loving Hut;1
+CA;Miguel's Jr;1
+CA;Natraj's Tandoori;1
+CA;Panda Express Innovation Kitchen;1
+CA;Papa Joe's Pizza;1
+CA;Poki Roll;1
+CA;Pollo Campero;1
+CA;Rally's;1
+CA;Rally's Hamburgers;1
+CA;Rascal's Teriyaki Grill;1
+CA;Rick's Drive In Out;1
+CA;Rubio's;1
+CA;Sonic;1
+CA;Sonic America's Drive-In;1
+CA;Sonic Drive-In;1
+CA;Steak Escape;1
+CA;Surfside Burger Shack;1
+CA;Tam's Burgers;1
+CA;Taqueria;1
+CA;Thai Delight;1
+CA;The Hat;1
+CA;The Sandwich Place;1
+CA;Tonys Pizza;1
+CA;Tumby's Pizza;1
+CA;Umami Burger;1
+CA;VeganBurg;1
+CA;Wienerschitzel;1
+CA;iSushi;1
+CO;Taco Bell;27
+CO;Subway;16
+CO;Arby's;13
+CO;Wendy's;13
+CO;Burger King;8
+CO;McDonald's;7
+CO;Carl's Jr.;6
+CO;McDonalds;6
+CO;SONIC Drive In;6
+CO;Dairy Queen;5
+CO;Jimmy John's;5
+CO;Chick-fil-A;4
+CO;Del Taco;4
+CO;Panda Express;3
+CO;SUBWAY;3
+CO;Chipotle Mexican Grill;2
+CO;Jack in the Box;2
+CO;Sonic;2
+CO;Wingstop;2
+CO;Arbys;1
+CO;Blackjack Pizza;1
+CO;CD's Wings;1
+CO;Captain D's;1
+CO;Chipotle;1
+CO;Country Buffet;1
+CO;El Original;1
+CO;El Pollo Loco;1
+CO;Five Guys Burgers And Fries;1
+CO;Joe's Crab Shack;1
+CO;Long John Silver's;1
+CO;McDonalds's;1
+CO;Mcdonald's;1
+CO;Pizza Hut;1
+CT;Subway;17
+CT;McDonald's;10
+CT;Burger King;4
+CT;Taco Bell;4
+CT;Boston Market;3
+CT;Popeyes Louisiana Kitchen;2
+CT;Wendy's;2
+CT;Arby's;1
+CT;Blackies Hotdog Stand;1
+CT;Buona Vita;1
+CT;Domino's Pizza;1
+CT;Frankies;1
+CT;Garden Catering;1
+CT;Long John Silver's;1
+CT;McDonalds;1
+CT;Moe's Burger Joint;1
+CT;Moe's Southwest Grill;1
+CT;Pretzel Time;1
+DE;Arby's;11
+DE;McDonald's;5
+DE;Taco Bell;4
+DE;Subway;3
+DE;7-Eleven;2
+DE;Chinatown Express;2
+DE;Hardee's;2
+DE;Taco Bell / KFC;2
+DE;Wendy's;2
+DE;Bob Evans Restaurant;1
+DE;Burger King;1
+DE;Capriotti's Sandwich Shop;1
+DE;Chick-Fil-A;1
+DE;Dairy Queen;1
+DE;Five Guys;1
+DE;Jake's Wayback Burgers;1
+DE;Old Mill Crab House;1
+DE;Pizza Pro;1
+DE;Popeyes Chicken & Biscuits;1
+DE;Wawa;1
+FL;McDonald's;137
+FL;Taco Bell;75
+FL;Wendy's;56
+FL;Burger King;48
+FL;Arby's;47
+FL;Chick-fil-A;31
+FL;Krystal;19
+FL;Subway;18
+FL;Checkers;14
+FL;KFC;13
+FL;Pizza Hut;13
+FL;Dairy Queen;10
+FL;Domino's Pizza;10
+FL;McDonalds;10
+FL;SUBWAY;10
+FL;Hardee's;9
+FL;Jimmy John's;8
+FL;Boston Market;7
+FL;Panera Bread;6
+FL;Dunkin' Donuts;5
+FL;Five Guys;5
+FL;SONIC Drive In;5
+FL;Pollo Tropical;4
+FL;Waffle House;4
+FL;Captain D's;3
+FL;Firehouse Subs;3
+FL;Chick-Fil-A;2
+FL;Chicken Kitchen;2
+FL;Culver's;2
+FL;Moe's Southwest Grill;2
+FL;Papa John's Pizza;2
+FL;Quiznos;2
+FL;SONIC Drive-In;2
+FL;Skyline Chili;2
+FL;Steak 'n Shake;2
+FL;Tropical Smoothie Cafe;2
+FL;7-Eleven;1
+FL;Auntie Anne's;1
+FL;Ay Jalisco;1
+FL;Back Yard Burgers;1
+FL;Ben & Jerry's;1
+FL;Bob Evans;1
+FL;Bojangles' Famous Chicken 'n Biscuits;1
+FL;Captain D's Seafood;1
+FL;Carvel;1
+FL;China City;1
+FL;Chipotle Mexican Grill;1
+FL;El Taquito;1
+FL;Fox's Pizza Den;1
+FL;Gyromania Grill;1
+FL;Jason's Deli;1
+FL;Jon Smith Subs;1
+FL;Lakewood Ranch Baptist Church;1
+FL;Long John Silvers;1
+FL;Mcdonalds;1
+FL;PDQ;1
+FL;Panda Express;1
+FL;Pei Wei;1
+FL;Pilot Travel Center;1
+FL;Pita's Republic;1
+FL;Quiznos Sub;1
+FL;SUBWAY¬Æ;1
+FL;Saladworks;1
+FL;Sonic;1
+FL;Sonic Drive-In;1
+FL;Starbucks Coffee;1
+FL;Whataburger;1
+GA;McDonald's;100
+GA;Taco Bell;44
+GA;Wendy's;37
+GA;Subway;36
+GA;Arby's;31
+GA;Krystal;30
+GA;Dairy Queen;25
+GA;Burger King;17
+GA;Chick-fil-A;16
+GA;Pizza Hut;10
+GA;Checkers;8
+GA;KFC;7
+GA;Bojangles' Famous Chicken 'n Biscuits;5
+GA;Captain D's;5
+GA;Steak 'n Shake;5
+GA;Waffle House;5
+GA;SONIC Drive In;4
+GA;Sbarro;3
+GA;Chipotle Mexican Grill;2
+GA;Domino's Pizza;2
+GA;Moe's Southwest Grill;2
+GA;B&D Burgers;1
+GA;Back Yard Burgers;1
+GA;Barberitos;1
+GA;Blimpie;1
+GA;Bojangles;1
+GA;Captain D's Seafood;1
+GA;Church's Chicken;1
+GA;Cozumel;1
+GA;Cremo Drive-In;1
+GA;Dunkin' Donuts;1
+GA;Einstein Bros Bagels;1
+GA;Firehouse Subs;1
+GA;Great Wraps;1
+GA;Hardee's;1
+GA;Jim Bob's Chicken Fingers;1
+GA;Jimmy Johns;1
+GA;KFC - Kentucky Fried Chicken;1
+GA;Maki Fresh;1
+GA;Mcdonalds;1
+GA;Panda Express;1
+GA;Panera Bread;1
+GA;Papa John's Pizza;1
+GA;Sonic;1
+GA;Steak N Shake;1
+GA;Sweet Magnolia's Cafe Bakery;1
+GA;Zaxby's Chicken Fingers & Buffalo Wings;1
+HI;McDonald's;12
+HI;Jack in the Box;9
+HI;Burger King;4
+HI;Big Island Pizza;1
+HI;Chun Wah Kam Noodle Factory;1
+HI;Cupie's Drive-In;1
+HI;Dairy Queen;1
+HI;Megs Drive In;1
+HI;Taco Bell;1
+HI;Wendy's;1
+IA;McDonald's;22
+IA;Dairy Queen;14
+IA;Arby's;13
+IA;Culver's;11
+IA;Burger King;9
+IA;Hardee's;9
+IA;Pizza Hut;8
+IA;Wendy's;6
+IA;Taco Bell;4
+IA;Domino's Pizza;3
+IA;Subway;3
+IA;Fazoli's;2
+IA;Taco John's;2
+IA;Chick-Fil-A;1
+IA;Chick-fil-A;1
+IA;Jimmy John's;1
+IA;KFC;1
+IA;Long John Silver's;1
+IA;Maid-rite;1
+IA;Panera Bread;1
+IA;Pretzel Maker;1
+IA;Steak 'n Shake;1
+ID;Subway;10
+ID;Wendy's;5
+ID;Jack in the Box;4
+ID;Taco Time;4
+ID;Burger King;3
+ID;Dairy Queen;3
+ID;Domino's Pizza;3
+ID;McDonald's;3
+ID;SONIC Drive In;3
+ID;Arby's;2
+ID;Carl's Jr.;2
+ID;Taco Bell;2
+ID;Capri Restaurant;1
+ID;Flying J;1
+ID;Jimmy John's;1
+ID;Pizza Hut;1
+ID;Port of Subs;1
+ID;Sonic;1
+ID;The Corner Cafe;1
+IL;McDonald's;77
+IL;Burger King;49
+IL;Taco Bell;35
+IL;Subway;28
+IL;Jimmy John's;23
+IL;Arby's;19
+IL;Wendy's;19
+IL;Culver's;15
+IL;Dairy Queen;15
+IL;Steak 'n Shake;14
+IL;Domino's Pizza;9
+IL;Hardee's;8
+IL;Dunkin' Donuts;7
+IL;White Castle;7
+IL;Pizza Hut;6
+IL;Casey's General Store;5
+IL;KFC;5
+IL;Jack in the Box;4
+IL;SONIC Drive In;4
+IL;Panera Bread;3
+IL;Penn Station East Coast Subs;3
+IL;7-Eleven;2
+IL;Chipotle Mexican Grill;2
+IL;Gyros Express;2
+IL;Kismet;2
+IL;Rally's;2
+IL;90 Miles Cuban Cafe;1
+IL;Backyard Grill;1
+IL;Beef Villa;1
+IL;Blimpie;1
+IL;Boston Market;1
+IL;Caseys Carry Out Pizza;1
+IL;Checkers;1
+IL;Chick-Fil-A;1
+IL;Chicken Inn;1
+IL;East of Edens;1
+IL;Einstein Bros Bagels;1
+IL;El Burrito Loco;1
+IL;El Pollo Loco;1
+IL;Five Guys;1
+IL;Fratellos Hot Dogs;1
+IL;Hardees;1
+IL;Henny Penny Family Restaurant;1
+IL;Jersey Mike's Subs;1
+IL;KFC - Kentucky Fried Chicken;1
+IL;Kosta's Gyros;1
+IL;McDonalds;1
+IL;Mickey's Gyros & Ribs;1
+IL;Nick's Gyros;1
+IL;Old Country Buffet;1
+IL;Panda Express;1
+IL;Parkside Gyros;1
+IL;Photo's Hot Dogs;1
+IL;Players Grill;1
+IL;Popeyes;1
+IL;Portillo's;1
+IL;Primo's Pizza;1
+IL;Romas Pizza;1
+IL;SUBWAY¬Æ;1
+IL;Sam's Pizza Restaurant;1
+IL;Sbarro;1
+IL;Sonic;1
+IL;Sunrise Gyros;1
+IL;Taco Bell/Pizza Hut;1
+IL;The Arch at McDonald's Campus Office Building;1
+IL;The New Chalet;1
+IN;Arby's;48
+IN;Taco Bell;45
+IN;Subway;23
+IN;Wendy's;22
+IN;Pizza Hut;15
+IN;Dairy Queen;13
+IN;McDonald's;9
+IN;Rally's;9
+IN;Steak 'n Shake;9
+IN;Long John Silver's;8
+IN;White Castle;7
+IN;Penn Station East Coast Subs;6
+IN;Bob Evans;4
+IN;Burger King;3
+IN;Culver's;3
+IN;KFC;3
+IN;King Gyros;3
+IN;Jack in the Box;2
+IN;Panera Bread;2
+IN;SUBWAY;2
+IN;Arni's Crawfordsville;1
+IN;Church's Chicken;1
+IN;Fazoli's;1
+IN;Firehouse Subs;1
+IN;George's Gyros Spot 2;1
+IN;Grandy's;1
+IN;Happy Dragon;1
+IN;Hardee's;1
+IN;Hardee's / Red Burrito;1
+IN;Jimmy John's;1
+IN;Moe's Southwest Grill;1
+IN;Peach Garden;1
+IN;Penguin Point;1
+IN;Popeye's Louisiana Kitchen;1
+IN;Quiznos;1
+IN;Rally's Hamburgers;1
+IN;Regions Bank;1
+IN;Sonic;1
+KS;Taco Bell;15
+KS;Wendy's;13
+KS;Arby's;9
+KS;Subway;9
+KS;Spangles;3
+KS;KFC;2
+KS;Long John Silver's;2
+KS;McDonald's;2
+KS;SONIC Drive In;2
+KS;Vista Drive In;2
+KS;Burger King;1
+KS;Chick-fil-A;1
+KS;Chicken Mary's;1
+KS;Chipotle Mexican Grill;1
+KS;Church's Chicken;1
+KS;Dairy Queen;1
+KS;Domino's Pizza;1
+KS;Fazoli's;1
+KS;Gambino's Pizza;1
+KS;Great Bend Taco;1
+KS;Krispy Krunchy Chicken;1
+KS;Mr. Gyros Greek Food & Pastry;1
+KS;SONIC Drive-In;1
+KS;Steak 'n Shake;1
+KS;Taco Bueno;1
+KY;McDonald's;51
+KY;Taco Bell;22
+KY;Wendy's;19
+KY;Burger King;13
+KY;Subway;8
+KY;Pizza Hut;7
+KY;Arby's;5
+KY;Long John Silver's;5
+KY;Culver's;3
+KY;Chick-fil-A;2
+KY;Dairy Queen;2
+KY;KFC;2
+KY;Panera Bread;2
+KY;Penn Station East Coast Subs;2
+KY;Qdoba Mexican Grill;2
+KY;SUBWAY;2
+KY;Waffle House;2
+KY;White Castle;2
+KY;Captain D's;1
+KY;Domino's Pizza;1
+KY;Fat Patty's;1
+KY;Fazoli's;1
+KY;Jimmy John's;1
+KY;KFC - Kentucky Fried Chicken;1
+KY;Long John Silver's / AW;1
+KY;Marathon;1
+KY;Moe's Southwest Grill;1
+KY;Papa John's Pizza;1
+KY;Raising Cane's;1
+KY;SONIC Drive In;1
+KY;Sonic Drive-In;1
+KY;Taco Casa;1
+KY;Taco John's;1
+LA;McDonald's;45
+LA;Burger King;27
+LA;Taco Bell;25
+LA;Wendy's;20
+LA;Domino's Pizza;12
+LA;Subway;12
+LA;Sonic Drive-In;7
+LA;Arby's;6
+LA;Chick-fil-A;5
+LA;Krispy Krunchy Chicken;5
+LA;Jack in the Box;4
+LA;Pizza Hut;4
+LA;SONIC Drive In;4
+LA;Church's Chicken;3
+LA;KFC;3
+LA;Adobe Cantina Salsa;1
+LA;Auntie Anne's;1
+LA;Bistro To Go;1
+LA;Chick-Fil-A;1
+LA;Dairy Queen;1
+LA;Huddle House;1
+LA;Jimmy John's;1
+LA;Kim's Oriental Kitchen;1
+LA;Krystal;1
+LA;Mama's Fried Chicken;1
+LA;Mcdonalds;1
+LA;Panera Bread;1
+LA;Popeyes;1
+LA;Quiznos Sub;1
+LA;Raising Canes;1
+LA;Rally's;1
+LA;Sbarro;1
+LA;Sonic;1
+LA;Waffle House;1
+LA;Wingstop Restaurant;1
+MA;McDonald's;34
+MA;Dunkin' Donuts;30
+MA;Burger King;25
+MA;Subway;24
+MA;Wendy's;19
+MA;Taco Bell;9
+MA;Domino's Pizza;8
+MA;Papa Gino's;7
+MA;Boston Market;3
+MA;D'Angelo Grilled Sandwiches;3
+MA;Dunkin Donuts;3
+MA;Panera Bread;3
+MA;SUBWAY;3
+MA;Chipotle Mexican Grill;2
+MA;Dairy Queen;2
+MA;Five Guys;2
+MA;KFC;2
+MA;Local Burger;2
+MA;Panda Express;2
+MA;b.good;2
+MA;B.GOOD;1
+MA;Ben and Jerry's;1
+MA;Boston Burger Company;1
+MA;Boston Road Pizza;1
+MA;Four Burgers;1
+MA;Frates Drive-In;1
+MA;Hilton Boston Logan Airport;1
+MA;Little Q Hot Pot;1
+MA;Lobster Hut;1
+MA;Milk Street Cafe;1
+MA;Moe's Cafe;1
+MA;Popeyes Louisiana Kitchen;1
+MA;Qdoba Mexican Eats;1
+MA;Quiznos Sub;1
+MA;Raising Cane's;1
+MA;Raising Cane's Chicken Fingers;1
+MA;Roche Bros.;1
+MA;Smashburger;1
+MA;Super Wings;1
+MA;Wild Willy's;1
+MD;McDonald's;43
+MD;Burger King;23
+MD;Taco Bell;20
+MD;Subway;12
+MD;Arby's;11
+MD;Chick-fil-A;10
+MD;Wendy's;6
+MD;KFC;4
+MD;Pizza Hut;4
+MD;7-Eleven;3
+MD;Bob Evans;3
+MD;Domino's Pizza;3
+MD;Hardee's;3
+MD;Boston Market;2
+MD;California Tortilla;2
+MD;Jimmy John's;2
+MD;Panda Express;2
+MD;Sonic Drive-In;2
+MD;Bob Evans Restaurant;1
+MD;Checkers;1
+MD;Festival Eatery;1
+MD;Great Wraps;1
+MD;Jerry's Subs & Pizza;1
+MD;Lake Trout 2;1
+MD;Long John Silver's;1
+MD;Mason's Famous Lobster Rolls;1
+MD;Oscar's Restaurant;1
+MD;Popeyes Louisiana Kitchen;1
+MD;SONIC Drive In;1
+MD;SUBWAY¬Æ;1
+MD;Sarku Japan;1
+MD;ShopHouse Southeast Asian Kitchen;1
+MD;Smoothie King;1
+MD;Steak Escape;1
+MD;Stoko's;1
+ME;Burger King;6
+ME;McDonald's;6
+ME;Taco Bell;3
+ME;Wendy's;3
+ME;Arby's;2
+ME;Clambake Seafood Restaurant;1
+ME;Dairy Queen;1
+ME;Domino's Pizza;1
+ME;The Extreme Pita;1
+ME;Whipper's Pizza;1
+MI;McDonald's;66
+MI;Burger King;61
+MI;Taco Bell;55
+MI;Subway;45
+MI;Arby's;43
+MI;Jimmy John's;14
+MI;Culver's;9
+MI;Pizza Hut;7
+MI;Wendy's;7
+MI;McDonalds;6
+MI;Dairy Queen;5
+MI;Checkers;4
+MI;KFC;4
+MI;SUBWAY;4
+MI;Bob Evans;3
+MI;SONIC Drive In;3
+MI;Domino's Pizza;2
+MI;Panera Bread;2
+MI;Rally's;2
+MI;Sbarro;2
+MI;White Castle;2
+MI;Bell's Pizza;1
+MI;Blimpie;1
+MI;Bob Evans Restaurant;1
+MI;Church's Chicken;1
+MI;Comet Burgers;1
+MI;Cottage Inn Pizza;1
+MI;D & M Subs;1
+MI;Danielle Inc;1
+MI;Del Taco;1
+MI;Eudici's Pizza;1
+MI;Fat Boy Burgers;1
+MI;Flushing A;1
+MI;Guerrazzi's;1
+MI;Gus's Carryout;1
+MI;Halo Burger;1
+MI;Hardee's;1
+MI;Mcdonald's;1
+MI;Mooney's Ice Cream Store;1
+MI;Penn's Thai Cafe;1
+MI;Pretzel Time;1
+MI;Qdoba Mexican Grill;1
+MI;Quiznos;1
+MI;Rallys;1
+MI;Sarku Japan;1
+MI;Siam Fusion;1
+MI;Taco Bob's;1
+MI;The Dog Pit;1
+MI;Wetzel's Pretzels;1
+MN;McDonald's;56
+MN;Arby's;24
+MN;Burger King;20
+MN;Taco John's;16
+MN;Taco Bell;15
+MN;Jimmy John's;14
+MN;Subway;8
+MN;Dairy Queen;7
+MN;Culver's;6
+MN;Domino's Pizza;5
+MN;Pizza Hut;5
+MN;KFC;2
+MN;Panera Bread;2
+MN;SUBWAY;2
+MN;Topper's Pizza;2
+MN;Wendy's;2
+MN;Band Box Diner;1
+MN;Cafe Zona Rosa;1
+MN;China Restaurant;1
+MN;Jalsa Indian Fast Food;1
+MN;Jersey Mike's Subs;1
+MN;McDonalds;1
+MN;Old Country Buffet;1
+MN;Patrick's on Third;1
+MN;Ray J's American Grill;1
+MN;SONIC Drive In;1
+MN;SUBWAY¬Æ;1
+MN;Sbarro;1
+MN;St. Clair Broiler;1
+MO;Taco Bell;43
+MO;McDonald's;35
+MO;Subway;16
+MO;Arby's;7
+MO;Jack in the Box;6
+MO;Steak 'n Shake;5
+MO;Wendy's;5
+MO;Burger King;4
+MO;Domino's Pizza;4
+MO;Jimmy John's;4
+MO;Panera Bread;3
+MO;SONIC Drive In;3
+MO;Taco John's;3
+MO;Andy's Frozen Custard;2
+MO;Blimpie;2
+MO;Chipotle Mexican Grill;2
+MO;Culver's;2
+MO;Hardee's;2
+MO;Lion's Choice;2
+MO;Burrito Bros.;1
+MO;Chick-fil-A;1
+MO;Firehouse Subs;1
+MO;Hardee's/red Burrito;1
+MO;HiBoy Drive-in;1
+MO;Kum & Go;1
+MO;Lacey's On The Hill Restaurant;1
+MO;Long John Silvers / A&W;1
+MO;Panda Express;1
+MO;Pei Wei;1
+MO;Pizza Hut;1
+MO;SUBWAY¬Æ;1
+MO;Sonic Drive-In;1
+MS;McDonald's;19
+MS;Subway;8
+MS;Burger King;5
+MS;Taco Bell;5
+MS;Pizza Hut;3
+MS;Chick-fil-A;2
+MS;Back Yard Burgers;1
+MS;Domino's Pizza;1
+MS;KFC;1
+MS;Krystal;1
+MS;McAlister's Deli;1
+MS;Panera Bread;1
+MS;Popeyes Chicken Biscuits;1
+MS;Popeyes Louisiana Kitchen;1
+MS;Rally's;1
+MS;SONIC Drive In;1
+MS;Sonic Drive-In;1
+MS;Taco Del Mar;1
+MS;Waffle House;1
+MT;McDonald's;11
+MT;Taco John's;8
+MT;Subway;7
+MT;Pizza Hut;3
+MT;Taco Bell;3
+MT;Burger King;2
+MT;Domino's Pizza;2
+MT;Arby's;1
+MT;Dairy Queen;1
+NC;McDonald's;65
+NC;Burger King;33
+NC;Subway;29
+NC;Arby's;24
+NC;Chick-fil-A;20
+NC;Taco Bell;17
+NC;Hardee's;14
+NC;Bojangles' Famous Chicken 'n Biscuits;10
+NC;Pizza Hut;9
+NC;Domino's Pizza;7
+NC;Wendy's;6
+NC;Panera Bread;5
+NC;Papa John's Pizza;5
+NC;Waffle House;5
+NC;Cook Out;4
+NC;KFC;4
+NC;Quiznos;3
+NC;Checkers;2
+NC;Chipotle Mexican Grill;2
+NC;McDonalds;2
+NC;Smithfield's Chicken 'n Bar-b-q;2
+NC;Steak 'n Shake;2
+NC;Zaxby's;2
+NC;Bad Daddy's Burger Bar;1
+NC;Boddie Noell Enterprises Inc;1
+NC;Boston Market;1
+NC;Captain D's;1
+NC;Checker's Pizza;1
+NC;China Garden;1
+NC;Christo's Original;1
+NC;Chronic Tacos;1
+NC;Church's Chicken;1
+NC;Dairy Queen;1
+NC;Five Guys;1
+NC;Italian Pizzeria Restaurant;1
+NC;Ivan's Restaurant;1
+NC;Jimmy John's;1
+NC;McDonald's of Rolesville;1
+NC;Moe's Southwest Grill;1
+NC;Price's Chicken Coop;1
+NC;Quizno's;1
+NC;SONIC Drive In;1
+NC;SONIC Drive-In;1
+NC;Sbarro;1
+NC;Sub Conscious;1
+NC;Villa Italian Kitchen;1
+ND;Subway;5
+ND;Taco John's;5
+ND;McDonald's;4
+ND;Taco Bell;4
+ND;Burger King;3
+ND;Jimmy John's;3
+ND;Pizza Hut;3
+ND;Wendy's;3
+ND;Arby's;1
+ND;Culver's;1
+ND;Domino's Pizza;1
+ND;KFC;1
+ND;Taco Del Mar;1
+NE;Burger King;16
+NE;Subway;9
+NE;McDonald's;7
+NE;Taco John's;7
+NE;Pizza Hut;6
+NE;Runza;6
+NE;Taco Bell;6
+NE;Wendy's;6
+NE;Dairy Queen;3
+NE;KFC;3
+NE;Chick-fil-A;2
+NE;Domino's Pizza;2
+NE;Pepperjax Grill;2
+NE;Culver's;1
+NE;Don & Millie's;1
+NE;Errandbug Fast Restaurant Delivery;1
+NE;Famous Dave's;1
+NE;Gourmet Grill;1
+NE;Jersey Mike's Subs;1
+NE;Panera Bread;1
+NE;PepperJax Grill;1
+NE;QDOBA Mexican Eats;1
+NE;SONIC Drive In;1
+NE;Sam's Gyros;1
+NE;Sonic Drive-In;1
+NH;McDonald's;7
+NH;Taco Bell;7
+NH;Burger King;6
+NH;KFC;3
+NH;Mcdonald's;2
+NH;Wendy's;2
+NH;Arby's;1
+NH;Chick-fil-A;1
+NH;Domino's Pizza;1
+NH;Five Guys;1
+NH;Panera Bread;1
+NH;Papa Gino's;1
+NH;Subway;1
+NJ;Burger King;24
+NJ;McDonald's;21
+NJ;Wendy's;20
+NJ;Taco Bell;14
+NJ;Domino's Pizza;8
+NJ;Chick-fil-A;5
+NJ;KFC;4
+NJ;Boston Market;3
+NJ;Subway;3
+NJ;Cluck-U Chicken;2
+NJ;Dunkin' Donuts;2
+NJ;Saladworks;2
+NJ;Arby's;1
+NJ;Bobby's Burger Palace;1
+NJ;Cafe Paris;1
+NJ;Chick-Fil-A;1
+NJ;China Bowl Take Out Restaurant;1
+NJ;Chipotle Mexican Grill;1
+NJ;Dairy Queen;1
+NJ;Dunkin Donuts;1
+NJ;Five Guys;1
+NJ;Flaming Grill and Buffet;1
+NJ;Jack's Goal Line Stand;1
+NJ;Johnson's Popcorn;1
+NJ;Low Chinese American Restaurant;1
+NJ;Panera Bread;1
+NJ;Pizza Hut;1
+NJ;Roma Pizza;1
+NJ;SONIC Drive In;1
+NJ;SUBWAY;1
+NJ;Sakana;1
+NJ;Sarku Japan;1
+NJ;White Castle;1
+NM;McDonald's;21
+NM;Taco Bell;13
+NM;Pizza Hut;11
+NM;Wendy's;6
+NM;Blake's Lotaburger;5
+NM;SONIC Drive In;4
+NM;Burger King;2
+NM;Church's Chicken;2
+NM;McDonalds;2
+NM;Panda Express;2
+NM;Subway;2
+NM;Arby's;1
+NM;Del Taco;1
+NM;KFC;1
+NM;Long John Silver's;1
+NM;SUBWAY¬Æ;1
+NM;T-Mobile;1
+NM;Taco Cabana;1
+NM;Whataburger;1
+NV;McDonald's;25
+NV;Taco Bell;20
+NV;Jack in the Box;12
+NV;Wendy's;10
+NV;Panda Express;8
+NV;Del Taco;6
+NV;Carl's Jr.;5
+NV;Arby's;4
+NV;Port of Subs;4
+NV;In-N-Out Burger;3
+NV;Burger King;2
+NV;Capriotti's Sandwich Shop;2
+NV;Jimmy John's;2
+NV;KFC;2
+NV;Pizza Hut;2
+NV;Subway;2
+NV;Taco John's;2
+NV;Domino's Pizza;1
+NV;El Pollo Loco;1
+NV;Joe's Crab Shack;1
+NV;Mrs. Fields;1
+NV;Pizza Barn;1
+NV;Round Table Pizza;1
+NV;SUBWAY;1
+NV;SUBWAY¬Æ;1
+NV;Tropical Smoothie Cafe;1
+NV;Tropicana Pizza;1
+NY;McDonald's;105
+NY;Subway;46
+NY;Burger King;32
+NY;Wendy's;23
+NY;Taco Bell;22
+NY;Arby's;17
+NY;KFC;16
+NY;Dunkin' Donuts;15
+NY;Domino's Pizza;12
+NY;Checkers;6
+NY;Boston Market;5
+NY;Panera Bread;5
+NY;Baskin-Robbins;3
+NY;Five Guys;3
+NY;SUBWAY;3
+NY;Dairy Queen;2
+NY;Mc Donalds;2
+NY;Popeyes Louisiana Kitchen;2
+NY;SUBWAY¬Æ;2
+NY;7-Eleven;1
+NY;B's Pizza;1
+NY;Burger King/Popeyes;1
+NY;Charlie's Restaurant;1
+NY;Chipotle Mexican Grill;1
+NY;Crown Fried Chicken;1
+NY;Dunkin Donuts;1
+NY;Fajita Grill;1
+NY;Fox's Gourmet Delicatessen;1
+NY;Fuku;1
+NY;Gangnam Style Korean Kitchen;1
+NY;Git-It-N-Git;1
+NY;Good Guys Pizza;1
+NY;Jim's Steakout;1
+NY;KFC - Kentucky Fried Chicken;1
+NY;Little Caesars Pizza;1
+NY;Little Italy;1
+NY;Long John Silver's;1
+NY;Lupo's Char-Pit;1
+NY;Mangia Pizza;1
+NY;Moe's Southwest Grill;1
+NY;Mrs. Fields;1
+NY;Nathan's Famous;1
+NY;Ocean Empire Restaurant;1
+NY;Old Country Buffet;1
+NY;Pony Express To Go;1
+NY;Popeyes;1
+NY;Rico's Pizza & Subs;1
+NY;SONIC Drive In;1
+NY;Sbarro;1
+NY;Westchester Burger Company;1
+OH;McDonald's;98
+OH;Subway;62
+OH;Arby's;52
+OH;Taco Bell;45
+OH;Wendy's;44
+OH;Burger King;41
+OH;KFC;18
+OH;Domino's Pizza;17
+OH;Chick-fil-A;11
+OH;Rally's;10
+OH;Steak 'n Shake;10
+OH;Dairy Queen;9
+OH;Bob Evans;8
+OH;Jimmy John's;7
+OH;Pizza Hut;7
+OH;Panera Bread;6
+OH;SONIC Drive In;6
+OH;White Castle;6
+OH;Gold Star Chili;5
+OH;Long John Silver's;5
+OH;Waffle House;4
+OH;Chipotle Mexican Grill;3
+OH;McDonalds;3
+OH;Penn Station East Coast Subs;3
+OH;SUBWAY;3
+OH;Charley's Grilled Subs;2
+OH;Hardee's;2
+OH;Mr Hero;2
+OH;Mr. Hero;2
+OH;Pilot Travel Center;2
+OH;Rallys;2
+OH;Acropolis Gyro Palace;1
+OH;Angelina's Pizza;1
+OH;Arthur Treacher's Fish & Chips;1
+OH;Belleria Pizzeria;1
+OH;Best Gyros;1
+OH;Boston Market;1
+OH;Chick-Fil-A;1
+OH;Culver's;1
+OH;Firehouse Subs;1
+OH;Hunan Gardens;1
+OH;Italo's Pizza;1
+OH;KFC/Long John Silvers;1
+OH;Long John Silvers;1
+OH;Maid-rite;1
+OH;Moe's Southwest Grill;1
+OH;Mr. Chicken;1
+OH;Old Carolina Barbecue Company;1
+OH;Papa Gyros;1
+OH;Raising Cane's;1
+OH;Raising Cane's Chicken Fingers;1
+OH;Richard's Pizza;1
+OH;Sbarro;1
+OH;Smoothie King;1
+OH;Sonic Drive-In;1
+OH;Taco John's;1
+OH;W.G. Grinders;1
+OH;Which Wich;1
+OK;McDonald's;34
+OK;Arby's;17
+OK;Subway;17
+OK;SONIC Drive In;11
+OK;Taco Bell;10
+OK;Pizza Hut;7
+OK;Sonic Drive-In;7
+OK;Taco Bueno;7
+OK;Domino's Pizza;6
+OK;Taco Mayo;6
+OK;Whataburger;6
+OK;Chick-fil-A;4
+OK;Carl's Jr.;3
+OK;Wendy's;3
+OK;Chick-Fil-A;2
+OK;Dairy Queen;2
+OK;Jack in the Box;2
+OK;Quiznos;2
+OK;Sbarro;2
+OK;Zio's Italian Kitchen;2
+OK;Blimpie;1
+OK;Burger King;1
+OK;Charley's Grilled Subs;1
+OK;Chicken Express;1
+OK;Five Guys Burgers Fries;1
+OK;Golden Chick;1
+OK;Jimmy John's;1
+OK;KFC;1
+OK;Mah's Garden Restaurant;1
+OK;Orange Julius;1
+OK;QDOBA Mexican Eats;1
+OK;Raising Cane's Chicken Fingers;1
+OK;SUBWAY;1
+OK;Sonic Drive in;1
+OK;Taco Del Mar;1
+OK;Tastee Freez;1
+OR;McDonald's;51
+OR;Burger King;14
+OR;Arby's;13
+OR;Subway;13
+OR;Taco Bell;13
+OR;Wendy's;13
+OR;Jack in the Box;10
+OR;Dairy Queen;9
+OR;Carl's Jr.;4
+OR;Panda Express;2
+OR;Pizza Hut;2
+OR;Taco Time;2
+OR;Burger King¬Æ;1
+OR;Charleys Philly Steaks;1
+OR;Five Guys;1
+OR;Hot Lips Pizza;1
+OR;KFC;1
+OR;Little Caesars Pizza;1
+OR;Sarku Japan;1
+OR;Sbarro;1
+PA;McDonald's;102
+PA;Wendy's;39
+PA;Subway;36
+PA;Arby's;30
+PA;Burger King;25
+PA;Taco Bell;12
+PA;Dairy Queen;11
+PA;Dunkin' Donuts;11
+PA;Chick-fil-A;10
+PA;Pizza Hut;7
+PA;KFC;6
+PA;Checkers;5
+PA;Domino's Pizza;5
+PA;Hardee's;5
+PA;Fox's Pizza Den;4
+PA;Boston Market;3
+PA;Charley's Grilled Subs;2
+PA;Chipotle Mexican Grill;2
+PA;Old Country Buffet;2
+PA;Quiznos;2
+PA;SONIC Drive In;2
+PA;SUBWAY;2
+PA;Sheetz;2
+PA;Sonic Drive In;2
+PA;Wawa;2
+PA;7-Eleven;1
+PA;A&W/Long John Silvers;1
+PA;Abruzzi Pizza;1
+PA;Au Bon Pain;1
+PA;BeanThru;1
+PA;Bob Evans;1
+PA;Bobby's Burger Palace;1
+PA;Capriotti's Sandwich Shop;1
+PA;Charlie's Pizzeria;1
+PA;Chick-Fil-A;1
+PA;Chinatown Inn;1
+PA;Crown Fried Chicken;1
+PA;Dairy Queen (Treat Only);1
+PA;Dominion Pizza;1
+PA;Grand China Chinese Restaurant;1
+PA;Grande Italian Restaurant;1
+PA;Italian Village Pizza;1
+PA;Jim's Steaks;1
+PA;Jimmy John's;1
+PA;Johnny's Wife's Place;1
+PA;KFC - Kentucky Fried Chicken;1
+PA;KFC/Taco Bell;1
+PA;Kasa's Pizza;1
+PA;King of Wings;1
+PA;Kow Thai Take Out;1
+PA;Long John Silver's;1
+PA;Long John Silvers;1
+PA;Mandarin Garden;1
+PA;Mignano Bros;1
+PA;Moe's Southwest Grill;1
+PA;Mr. Hoagie;1
+PA;Nino's Pizzarama;1
+PA;Papa John's Pizza;1
+PA;Pizza Pub;1
+PA;Primo Hoagies;1
+PA;Qdoba Mexican Eats;1
+PA;Quiznos Sub;1
+PA;Riviera D'Italia;1
+PA;Shake Shack;1
+PA;Shangri-la Chinese Restaurant;1
+PA;Shawarma Kebab;1
+PA;Steele Pier Hotdogs;1
+PA;Sumo Steaks;1
+PA;Tacconelli's Pizza;1
+PA;Taco Bell/KFC;1
+PA;The Hotdog Shoppe;1
+PA;The Pizza Company;1
+PA;TheMINT Gastropub;1
+PA;Tiffin;1
+PA;Togi's Sub Station;1
+PA;Tony Wang's Chinese Restaurant;1
+PA;Wendy's Valenti Management;1
+PA;West Point Pizza;1
+PA;White Castle;1
+RI;Wendy's;5
+RI;Domino's Pizza;2
+RI;SUBWAY;2
+RI;B Good;1
+RI;Creperie;1
+RI;Dragon Dragon;1
+RI;My Daddy's Pizza & Grille;1
+RI;Panera Bread;1
+RI;Pizza Hut;1
+SC;McDonald's;28
+SC;Wendy's;24
+SC;Subway;21
+SC;Arby's;17
+SC;Hardee's;13
+SC;Taco Bell;12
+SC;Bojangles' Famous Chicken 'n Biscuits;9
+SC;Domino's Pizza;7
+SC;Chick-fil-A;6
+SC;SONIC Drive In;6
+SC;Waffle House;6
+SC;Sonic Drive-In;5
+SC;Burger King;4
+SC;Jack in the Box;4
+SC;Dairy Queen;3
+SC;Chick-Fil-A;2
+SC;Church's Chicken;2
+SC;KFC;2
+SC;McAlister's Deli;2
+SC;BURGERFI;1
+SC;Baskin-Robbins;1
+SC;Charley's Grilled Subs;1
+SC;Checkers;1
+SC;Cook Out;1
+SC;Earth Fare;1
+SC;Golden Chick;1
+SC;Hardees;1
+SC;Jimmy John's;1
+SC;Krystal;1
+SC;Moe's Southwest Grill;1
+SC;Papa John's Pizza;1
+SC;Sarku Japan;1
+SC;Sesame Burgers & Beer;1
+SC;Shell;1
+SD;McDonald's;13
+SD;Arby's;6
+SD;Taco John's;6
+SD;Hardee's;3
+SD;Subway;3
+SD;Panda Express;2
+SD;Taco Bell;2
+SD;Wendy's;2
+SD;Dairy Queen;1
+SD;Domino's Pizza;1
+SD;Five Guys;1
+SD;Golden Harvest Chinese Restaurant;1
+SD;SUBWAY;1
+TN;McDonald's;72
+TN;Arby's;32
+TN;Krystal;28
+TN;Subway;26
+TN;Taco Bell;24
+TN;Wendy's;20
+TN;Domino's Pizza;11
+TN;Chick-fil-A;10
+TN;Burger King;8
+TN;Pizza Hut;7
+TN;SONIC Drive In;6
+TN;Bojangles' Famous Chicken 'n Biscuits;4
+TN;Hardee's;4
+TN;Jack in the Box;4
+TN;KFC;4
+TN;Sonic Drive-In;4
+TN;Steak 'n Shake;4
+TN;Waffle House;4
+TN;Dairy Queen;3
+TN;Panera Bread;3
+TN;Back Yard Burgers;2
+TN;Checkers;2
+TN;Long John Silver's;2
+TN;Pal's Sudden Service;2
+TN;Blue Coast Burrito;1
+TN;Bucky's Family Restaurant;1
+TN;Captain D's;1
+TN;Fat Mo's Burgers;1
+TN;Hardee's / Red Burrito;1
+TN;La Hacienda Mexican Restaurant;1
+TN;Moe's Southwest Grill;1
+TN;New York Pizza Department;1
+TN;Petro's Chili & Chips;1
+TN;QDOBA Mexican Eats;1
+TN;Quiznos;1
+TN;Sakura Japanese Restaurant;1
+TN;Sam's Gyros;1
+TN;Steak N Shake;1
+TN;The Grille;1
+TN;White Castle;1
+TX;McDonald's;137
+TX;Jack in the Box;92
+TX;Taco Bell;61
+TX;Burger King;50
+TX;Subway;49
+TX;Wendy's;33
+TX;Arby's;31
+TX;Whataburger;28
+TX;SONIC Drive In;26
+TX;Chick-fil-A;25
+TX;Dairy Queen;25
+TX;Golden Chick;19
+TX;Chicken Express;15
+TX;Domino's Pizza;15
+TX;Sonic Drive-In;15
+TX;Taco Bueno;14
+TX;Panda Express;11
+TX;Sonic;10
+TX;Church's Chicken;9
+TX;KFC;9
+TX;Pizza Hut;8
+TX;Long John Silver's;7
+TX;Pei Wei;7
+TX;Panera Bread;6
+TX;Taco Cabana;6
+TX;Wienerschnitzel;6
+TX;Boston Market;5
+TX;Jimmy John's;5
+TX;Quiznos;4
+TX;7-Eleven;3
+TX;Carl's Jr.;3
+TX;Chick-Fil-A;3
+TX;Quiznos Sub;3
+TX;Raising Cane's Chicken Fingers;3
+TX;Starbucks Coffee;3
+TX;Wingstop;3
+TX;Arby's - Closed;2
+TX;Bush's Chicken;2
+TX;Chipotle Mexican Grill;2
+TX;Einstein Bros Bagels;2
+TX;El Pollo Regio;2
+TX;Fazoli's;2
+TX;In-N-Out Burger;2
+TX;Jamba Juice;2
+TX;KFC - Kentucky Fried Chicken;2
+TX;Krispy Krunchy Chicken;2
+TX;Papa John's Pizza;2
+TX;SUBWAY;2
+TX;Schlotzsky's;2
+TX;Taco Casa;2
+TX;Andy's Frozen Custard;1
+TX;Auntie Anne's Pretzels;1
+TX;Big House Burgers;1
+TX;Blimpie;1
+TX;Braum's;1
+TX;Bubba's Texas Burger Shack;1
+TX;Burger House;1
+TX;Charley's Grilled Subs;1
+TX;El Sombrero;1
+TX;Five Guys;1
+TX;Genghis Grill;1
+TX;Grandy's;1
+TX;Heff's Burgers;1
+TX;Jack In The Box;1
+TX;Jason's Deli;1
+TX;Jersey Mike's Subs;1
+TX;KFC/AW;1
+TX;Luby's;1
+TX;Ly's Cafe;1
+TX;McAlister's Deli;1
+TX;McDonalds;1
+TX;Mcdonalds Whitehouse;1
+TX;Mr Taco;1
+TX;Palio's Pizza Cafe;1
+TX;Papa J's;1
+TX;Pizza Inn;1
+TX;Pollo Tropical;1
+TX;Popeyes;1
+TX;Popeyes Chicken & Biscuits;1
+TX;Popeyes Louisiana Kitchen;1
+TX;The 50's Cafe;1
+TX;The Swinging Door;1
+TX;Wingstop Restaurant;1
+TX;Wise Guys A Chicago Eatery;1
+UT;Arby's;19
+UT;McDonald's;8
+UT;Taco Bell;6
+UT;Burger King;5
+UT;Arctic Circle;4
+UT;Taco Time;4
+UT;Domino's Pizza;3
+UT;Wendy's;3
+UT;Carl's Jr.;2
+UT;Chick-fil-A;2
+UT;Subway;2
+UT;7-Eleven;1
+UT;Del Taco;1
+UT;In-N-Out Burger;1
+UT;Jimmy John's;1
+UT;Pizza Hut;1
+VA;Arby's;37
+VA;Burger King;34
+VA;Taco Bell;30
+VA;Wendy's;28
+VA;Subway;20
+VA;Chick-fil-A;19
+VA;Hardee's;14
+VA;McDonald's;10
+VA;Domino's Pizza;9
+VA;Panera Bread;5
+VA;Dairy Queen;4
+VA;KFC;4
+VA;Church's Chicken;3
+VA;Five Guys;3
+VA;Papa John's Pizza;3
+VA;SONIC Drive In;3
+VA;Bob Evans;2
+VA;Bojangles' Famous Chicken 'n Biscuits;2
+VA;Chick-Fil-A;2
+VA;Jerry's Subs & Pizza;2
+VA;Jimmy John's;2
+VA;Quiznos;2
+VA;SUBWAY¬Æ;2
+VA;All About Burger;1
+VA;Auntie Anne's Pretzels;1
+VA;Blimpie;1
+VA;Chanello's Pizza;1
+VA;Chipotle Mexican Grill;1
+VA;Citizen Burger Bar;1
+VA;Firehouse Subs;1
+VA;Glorious Foods Gourmet to go & Catering;1
+VA;Popeyes;1
+VA;Quiznos Sub;1
+VA;SUBWAY;1
+VA;Sonic Drive-In;1
+VA;Waffle House;1
+VT;McDonald's;7
+VT;Burger King;3
+VT;Panera Bread;2
+VT;Boloco;1
+VT;Taco Bell;1
+VT;Wendy's;1
+WA;McDonald's;44
+WA;Taco Bell;30
+WA;Jack in the Box;20
+WA;Subway;18
+WA;Burger King;16
+WA;Taco Time;14
+WA;Wendy's;12
+WA;Pizza Hut;5
+WA;Jimmy John's;4
+WA;Dairy Queen;3
+WA;Boomer's Drive-In;2
+WA;KFC;2
+WA;Legendz;2
+WA;Panda Express;2
+WA;Panera Bread;2
+WA;SONIC Drive In;2
+WA;Taco Del Mar;2
+WA;Arbys;1
+WA;Bennidito's Pizza;1
+WA;Dick's Hamburgers;1
+WA;Fatburger;1
+WA;Fazzari's;1
+WA;KFC - Kentucky Fried Chicken;1
+WA;Little Caesars Pizza;1
+WA;McDonalds;1
+WA;Mustard Seed;1
+WA;Old Country Buffet;1
+WA;Pizza Pipeline;1
+WA;Plato's Closet;1
+WA;Quiznos;1
+WA;SUBWAY;1
+WA;Shamus's Sandwich Shoppe;1
+WA;Walmart Supercenter;1
+WI;McDonald's;32
+WI;Taco Bell;21
+WI;Subway;20
+WI;Burger King;18
+WI;Culver's;16
+WI;Arby's;10
+WI;Jimmy John's;10
+WI;KFC;8
+WI;Pizza Hut;8
+WI;Dairy Queen;7
+WI;McDonalds;4
+WI;Cousin's Subs;3
+WI;Domino's Pizza;3
+WI;Hardee's;3
+WI;Panera Bread;2
+WI;SONIC Drive In;2
+WI;Toppers Pizza;2
+WI;Bristol 45 Diner;1
+WI;China Buffet;1
+WI;Fazoli's;1
+WI;Five Guys;1
+WI;Hernandez Mexican Restaurant;1
+WI;Hobo's Korner Kitchen;1
+WI;Jimmy Johns;1
+WI;Jimmy's Grotto;1
+WI;Lin's Garden;1
+WI;Mcdonalds;1
+WI;Miss Katie's Diner;1
+WI;Picnic Basket;1
+WI;Salad Creations;1
+WI;Shell;1
+WI;Taco John's;1
+WI;Tom's Drive In;1
+WI;Topper's Pizza;1
+WI;Which Wich;1
+WI;Wolf River Diner;1
+WI;Wolf's Dairy Queen;1
+WV;McDonald's;19
+WV;Burger King;11
+WV;Dairy Queen;7
+WV;Taco Bell;7
+WV;Arby's;5
+WV;Domino's Pizza;5
+WV;Wendy's;4
+WV;Bob Evans;2
+WV;Chick-fil-A;2
+WV;Pizza Hut;2
+WV;Hardee's;1
+WV;KFC;1
+WV;Panera Bread;1
+WV;Ryan's;1
+WV;Sheetz;1
+WV;Steak Escape;1
+WY;Arby's;6
+WY;McDonald's;6
+WY;Dairy Queen;3
+WY;Pizza Hut;3
+WY;SONIC Drive In;2
+WY;Subway;2
+WY;Burger King;1
+WY;Domino's Pizza;1
+WY;Quiznos;1
+WY;Red Baron Drive-In;1
+WY;Taco Bell;1
+WY;Taco John's;1
+WY;Wendy's;1
